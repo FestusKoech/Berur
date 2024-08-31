@@ -3,4 +3,5 @@ server/node_modules/
 client/dist/
 server/dist/
 client/.env/
-server/.next/
+server/.env/
+client/.next/
